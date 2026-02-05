@@ -1,4 +1,4 @@
-package JavaArrays.Level1;
+package javaarrays.Level1;
 import java.util.Scanner;
 public class Copy2Dto1D {
         public static void main(String[] args) {

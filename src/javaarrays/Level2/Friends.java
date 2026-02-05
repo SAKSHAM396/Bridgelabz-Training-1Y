@@ -1,4 +1,4 @@
-package JavaArrays.Level2;
+package javaarrays.Level2;
 import java.util.Scanner;
 public class Friends {
         public static void main(String[] args) {
