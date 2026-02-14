@@ -1,4 +1,4 @@
-package methods;
+package StringExtras;
     import java.time.ZonedDateTime;
 import java.time.ZoneId;
     public class TimeZone{

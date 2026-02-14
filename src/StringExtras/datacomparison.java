@@ -1,4 +1,4 @@
-package methods;
+package StringExtras;
     import java.util.Scanner;
 import java.time.LocalDate;
 public class datacomparison {
